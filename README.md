@@ -6,7 +6,7 @@
 
 ## ⚠️ Legal Notice & License (Non-Free Use)
 
-**Copyright (c) 2026 Ahmed Mohamed Elmustafa Ahmed Mohamed Elhakim. All rights reserved.**
+**Copyright (c) 2026 Ahmed Mohamed Almustafa Ahmed Mohamed Alhkeem. All rights reserved.**
 
 ### Terms of Use:
 1. **Personal & Educational Use:** You may view and study the code for educational purposes only.
